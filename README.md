@@ -1,3 +1,5 @@
+Archived 2026-11-20: this repository is retired. Source, branches, tags and existing releases are retained for reference.
+
 # LineageOS 24.0 for the LG G8s ThinQ (betalm) — unofficial
 
 An **unofficial, experimental** build of LineageOS 24.0 (Android 17) for the LG G8s ThinQ (LM-G810, codename `betalm`, Snapdragon SM8150). There is no official LineageOS for this device past 22.2 and no maintainer — this is a community effort to get 24.0 running and share it so others can test it, build on it, or take it over.
